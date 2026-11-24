@@ -1,0 +1,23 @@
+{
+  "module": "oc-free-sub-generator",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "gen": {
+      "enabled": true
+    },
+    "activate": {
+      "enabled": true
+    },
+    "use": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
